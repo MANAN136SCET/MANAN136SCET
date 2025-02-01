@@ -9,7 +9,7 @@
    - [Achieving Accuracy](#achieving-100%-accuracy)
    - [Efficient Extraction Process](#efficient-extraction-process)
    - [Extracting Only Current Quarter Data](#extracting-only-current-quarter-data)
-   - [Handling Edge Cases](#handling-edge-eases)
+   - [Handling Edge Cases](#handling-edge-cases)
    - [Integrating Open-Source Solutions](#integrating-open-source-solutions)
 - [Limitations](#limitations)
 - [Tools We Use](#tools-we-use)
