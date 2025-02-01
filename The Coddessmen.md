@@ -4,7 +4,7 @@
 
 ## Contents:
 
-- [Introduction](#introduction)
+- [Introduction](#introduction-efficient-data-extraction-from-financial-reports)
 - [Challenge: Track-5 AI city data extraction](#challenge-track-5-ai-city-data-extraction)
    - [Achieving Accuracy](#achieving-100%-accuracy)
    - [Efficient Extraction Process](#efficient-extraction-process)
